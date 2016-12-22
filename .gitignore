@@ -1,0 +1,5 @@
+/*Format is one expression per line*/
+MyFile.ext
+*.ext
+my-specific-folder/
+.DS_Store
